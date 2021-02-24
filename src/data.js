@@ -11,7 +11,8 @@ const data = [
       "user_reviews": 73,
       "awards": "Primetime Emmy Awards",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/Hitler The Rise of Evil.jpg"
     },
     {
       "title": "The Gathering Storm (2002)",
@@ -25,7 +26,8 @@ const data = [
       "user_reviews": 81,
       "awards": "Golden Globe, Peabody",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/The Gathering Storm 2002.jpg"
     },
     {
       "title": "The King's Speech (2010)",
@@ -39,7 +41,8 @@ const data = [
       "user_reviews": 84,
       "awards": "AA Best Picture, Actor, Director",
       "availability": "Netflix",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/The Kings Speech.jpg"
     },
     {
       "title": "City of Life and Death (2009)",
@@ -53,7 +56,8 @@ const data = [
       "user_reviews": 77,
       "awards": "",
       "availability": "Prime w/ Fandor",
-      "watched": "No"
+      "watched": "No",
+      "img_src": "./images/City of Life and Death 2009.jpg"
     },
     {
       "title": "April 9th (2015)",
@@ -67,7 +71,8 @@ const data = [
       "user_reviews": 51,
       "awards": "",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/9 April 2015.jpg"
     },
     {
       "title": "The King's Choice (2016)",
@@ -81,7 +86,8 @@ const data = [
       "user_reviews": 68,
       "awards": "",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/The Kings Choice 2016.jpg"
     },
     {
       "title": "Into the White (2013)",
@@ -95,7 +101,8 @@ const data = [
       "user_reviews": 84,
       "awards": "",
       "availability": "YouTube (Official)",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/Into The White 2013.jpg"
     },
     {
       "title": "Dunkirk (2017)",
@@ -109,7 +116,8 @@ const data = [
       "user_reviews": 83,
       "awards": "Tons of Nominations",
       "availability": "Prime w/ Cinemax",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/Dunkirk 2017.jpg"
     },
     {
       "title": "Darkest Hour (2017)",
@@ -123,7 +131,8 @@ const data = [
       "user_reviews": 73,
       "awards": "Academy Award Best Actor",
       "availability": "Prime w/ HBO, Hulu w/ HBO, HBONOW",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/Darkest Hour 2017.jpg"
     },
     {
       "title": "Battle of Britain (1969)",
@@ -137,7 +146,8 @@ const data = [
       "user_reviews": 79,
       "awards": "Golden Globe - Best Motion Picture Drama",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/Battle of Britain 1969.jpg"
     },
     {
       "title": "Fateless (2005)",
@@ -151,7 +161,8 @@ const data = [
       "user_reviews": 76,
       "awards": "Nobel Prize for Literature",
       "availability": "Physical Only",
-      "watched": "No"
+      "watched": "No",
+      "img_src": "./images/Fateless 2005.jpg"
     },
     {
       "title": "Suite Francaise (2014)",
@@ -165,7 +176,8 @@ const data = [
       "user_reviews": 68,
       "awards": "",
       "availability": "Netflix",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/Suite Francaise 2014.jpg"
     },
     {
       "title": "Generation War: Episode 1 (2013)",
@@ -179,7 +191,8 @@ const data = [
       "user_reviews": 74,
       "awards": "Internat. Emmy - Best Mini-Series",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/Generation War Episode 1.jpg"
     },
     {
       "title": "Fortress of War (2010)",
@@ -193,7 +206,8 @@ const data = [
       "user_reviews": 75,
       "awards": "2 Golden Globes, Oscar - Best Score",
       "availability": "SovietMoviesOnline",
-      "watched": "No"
+      "watched": "No",
+      "img_src": "./images/Fortress of War 2010.jpg"
     },
     {
       "title": "Casablanca (1942)",
@@ -207,7 +221,8 @@ const data = [
       "user_reviews": 91,
       "awards": "Academy Award - Best Picture",
       "availability": "Archive.org, Netflix w/ VPN?",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/Casablanca 1942.jpg"
     },
     {
       "title": "Pearl Harbor (2001)",
@@ -221,7 +236,8 @@ const data = [
       "user_reviews": 56,
       "awards": "MTV Movie Award - Best Action Sequence",
       "availability": "Paid Only",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/Pearl Harbor 2001.jpg"
     },
     {
       "title": "Conspiracy (2001)",
@@ -235,7 +251,8 @@ const data = [
       "user_reviews": 86,
       "awards": "",
       "availability": "Amazon w/ HBO, HBONOW",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/Conspiracy 2001.jpg"
     },
     {
       "title": "Anthropoid (2016)",
@@ -249,7 +266,8 @@ const data = [
       "user_reviews": 73,
       "awards": "",
       "availability": "Netflix with VPN?",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/Anthropoid 2016.jpg"
     },
     {
       "title": "Battle for Sevastopol (2015)",
@@ -263,7 +281,8 @@ const data = [
       "user_reviews": 72,
       "awards": "",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/Battle for Sevastopol 2015.jpg"
     },
     {
       "title": "Midway (1976)",
@@ -277,7 +296,8 @@ const data = [
       "user_reviews": "N/A",
       "awards": "",
       "availability": "Prime w/ STARZ",
-      "watched": "No"
+      "watched": "No",
+      "img_src": "./images/Midway 1976.jpg"
     },
     {
       "title": "Lust, Caution (2007)",
@@ -291,7 +311,8 @@ const data = [
       "user_reviews": 66,
       "awards": "None Found",
       "availability": "Paid Only",
-      "watched": "No"
+      "watched": "No",
+      "img_src": "./images/Lust Caution 2007.jpg"
     },
     {
       "title": "The Pacific: Episode 1 (2010)",
@@ -305,7 +326,8 @@ const data = [
       "user_reviews": 77,
       "awards": "8 Primetime Emmys Include Best Miniseries",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/The Pacific Episode I.jpg"
     },
     {
       "title": "The Pacific: Episode 2 (2010)",
@@ -319,7 +341,8 @@ const data = [
       "user_reviews": 77,
       "awards": "8 Primetime Emmys Include Best Miniseries",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/The Pacific Episode II.jpg"
     },
     {
       "title": "The Thin Red Line (1998)",
@@ -333,7 +356,8 @@ const data = [
       "user_reviews": 83,
       "awards": "7 Academy Awards Nominations, Criterion Collection",
       "availability": "Prime w/ HBO, Hulu w/ HBO",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/The Thin Red Line 1998.jpg"
     },
     {
       "title": "The Pacific: Episode 3 (2010)",
@@ -347,7 +371,8 @@ const data = [
       "user_reviews": 77,
       "awards": "8 Primetime Emmys Include Best Miniseries",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/The Pacific Episode III.jpg"
     },
     {
       "title": "Stalingrad (2013)",
@@ -361,7 +386,8 @@ const data = [
       "user_reviews": 44,
       "awards": "",
       "availability": "Archive.org",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/Stalingrad 2013.jpg"
     },
     {
       "title": "The White Rose (1982)",
@@ -375,7 +401,8 @@ const data = [
       "user_reviews": 84,
       "awards": "",
       "availability": "Amazon Prime, YouTube (Unofficial)",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "Uprising (2001)",
@@ -389,7 +416,8 @@ const data = [
       "user_reviews": 70,
       "awards": "Primetime Emmy for Best Stunt Coordination",
       "availability": "Paid Only",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": "./images/Uprising 2001.jpg"
     },
     {
       "title": "Generation War: Episode 2 (2013)",
@@ -403,7 +431,8 @@ const data = [
       "user_reviews": 74,
       "awards": "International Emmy - Best Mini-Series",
       "availability": "DailyMotion (Unofficial)",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "The Pacific: Episode 4 (2010)",
@@ -417,7 +446,8 @@ const data = [
       "user_reviews": 77,
       "awards": "8 Primetime Emmys Include Best Miniseries",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "Band of Brothers: Episode 1 (2001)",
@@ -431,7 +461,8 @@ const data = [
       "user_reviews": 93,
       "awards": "Seven Primetime Emmys inc. Best Mini Series",
       "availability": "Amazon Prime, HBONOW",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "Saving Private Ryan (1998)",
@@ -445,7 +476,8 @@ const data = [
       "user_reviews": 89,
       "awards": "5 Academy Awards inc. Best Director, Editing",
       "availability": "Netflix with VPN?",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "Band of Brothers: Episode 2 (2001)",
@@ -459,7 +491,8 @@ const data = [
       "user_reviews": 93,
       "awards": "Seven Primetime Emmys inc. Best Mini Series",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "Band of Brothers: Episode 3 (2001)",
@@ -473,7 +506,8 @@ const data = [
       "user_reviews": 93,
       "awards": "Seven Primetime Emmys inc. Best Mini Series",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "Valkyrie (2008)",
@@ -487,7 +521,8 @@ const data = [
       "user_reviews": 63,
       "awards": "",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "The Diary of Anne Frank (1959)",
@@ -501,7 +536,8 @@ const data = [
       "user_reviews": 76,
       "awards": "12 Golden Globe, Academy Award Noms",
       "availability": "Prime w/ HBO, Hulu w/ HBO",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "The Pacific: Episode 5 (2010)",
@@ -515,7 +551,8 @@ const data = [
       "user_reviews": 77,
       "awards": "8 Primetime Emmys Include Best Miniseries",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "The Pacific: Episode 6 (2010)",
@@ -529,7 +566,8 @@ const data = [
       "user_reviews": 77,
       "awards": "8 Primetime Emmys Include Best Miniseries",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "The Pacific: Episode 7 (2010)",
@@ -543,7 +581,8 @@ const data = [
       "user_reviews": 77,
       "awards": "8 Primetime Emmys Include Best Miniseries",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "A Bridge Too Far (1977)",
@@ -557,7 +596,8 @@ const data = [
       "user_reviews": 86,
       "awards": "",
       "availability": "Amazon Prime",
-      "watched": "Stopped"
+      "watched": "Stopped",
+      "img_src": ""
     },
     {
       "title": "Band of Brothers: Episode 4 (2001)",
@@ -571,7 +611,8 @@ const data = [
       "user_reviews": 93,
       "awards": "Seven Primetime Emmys inc. Best Mini Series",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "Band of Brothers: Episode 5 (2001)",
@@ -585,7 +626,8 @@ const data = [
       "user_reviews": 93,
       "awards": "Seven Primetime Emmys inc. Best Mini Series",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "Band of Brothers: Episode 6 (2001)",
@@ -599,7 +641,8 @@ const data = [
       "user_reviews": 93,
       "awards": "Seven Primetime Emmys inc. Best Mini Series",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "Band of Brothers: Episode 7 (2001)",
@@ -613,7 +656,8 @@ const data = [
       "user_reviews": 93,
       "awards": "Seven Primetime Emmys inc. Best Mini Series",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "The Resistance Banker (2018)",
@@ -627,7 +671,8 @@ const data = [
       "user_reviews": 81,
       "awards": "",
       "availability": "Netflix",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "Band of Brothers: Episode 8 (2001)",
@@ -641,7 +686,8 @@ const data = [
       "user_reviews": 93,
       "awards": "Seven Primetime Emmys inc. Best Mini Series",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "The Pacific: Episode 8 (2010)",
@@ -655,7 +701,8 @@ const data = [
       "user_reviews": 77,
       "awards": "8 Primetime Emmys Include Best Miniseries",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "Band of Brothers: Episode 9 (2001)",
@@ -669,7 +716,8 @@ const data = [
       "user_reviews": 93,
       "awards": "Seven Primetime Emmys inc. Best Mini Series",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "The Zookeeper's Wife (2017)",
@@ -683,7 +731,8 @@ const data = [
       "user_reviews": 72,
       "awards": "",
       "availability": "Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "The Pianist (2002)",
@@ -697,7 +746,8 @@ const data = [
       "user_reviews": 77,
       "awards": "3 Oscars, AcdAwrd Best Picture",
       "availability": "Amazon Primve",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "Downfall (2004)",
@@ -711,7 +761,8 @@ const data = [
       "user_reviews": 86,
       "awards": "Metacritic Must-See, \"Hitler Rant\" Movie",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "Band of Brothers: Episode 10 (2001)",
@@ -725,7 +776,8 @@ const data = [
       "user_reviews": 93,
       "awards": "Seven Primetime Emmys inc. Best Mini Series",
       "availability": "Amazon Prime",
-      "watched": "Yes"
+      "watched": "Yes",
+      "img_src": ""
     },
     {
       "title": "Photographer of Mauthausen",
@@ -739,7 +791,8 @@ const data = [
       "user_reviews": "",
       "awards": "",
       "availability": "",
-      "watched": ""
+      "watched": "",
+      "img_src": ""
     },
     {
       "title": "Schindler's List (1993)",
@@ -753,7 +806,8 @@ const data = [
       "user_reviews": "",
       "awards": "",
       "availability": "",
-      "watched": ""
+      "watched": "",
+      "img_src": ""
     },
     {
       "title": "Pacific 9",
@@ -767,7 +821,8 @@ const data = [
       "user_reviews": "",
       "awards": "",
       "availability": "",
-      "watched": ""
+      "watched": "",
+      "img_src": ""
     },
     {
       "title": "Into the Storm",
@@ -781,7 +836,8 @@ const data = [
       "user_reviews": "",
       "awards": "",
       "availability": "",
-      "watched": ""
+      "watched": "",
+      "img_src": ""
     },
     {
       "title": "Pacific 10",
@@ -795,7 +851,8 @@ const data = [
       "user_reviews": "",
       "awards": "",
       "availability": "",
-      "watched": ""
+      "watched": "",
+      "img_src": ""
     }
   ]
 
